@@ -1,7 +1,7 @@
 import Image from "next/image";
-import Menu from "../../components/menu/Menu";
+import Menu from "../../../components/menu/Menu";
 import styles from "./singlePage.module.css";
-import Comments from "../../components/comments/Comments";
+import Comments from "../../../components/comments/Comments";
 
 const SinglePage = () => {
   return (
